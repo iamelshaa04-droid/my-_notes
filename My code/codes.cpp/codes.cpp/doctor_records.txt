@@ -1,0 +1,5 @@
+DoctorId, name,age, department
+101,something,32,ortho
+102,something,32,ortho
+103,something,32,ortho
+104,something,32,ortho

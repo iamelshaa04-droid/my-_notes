@@ -1,0 +1,6 @@
+patient id : 102
+name : alisha
+disease : fever
+patient id : 102
+name : alisha
+disease : fever
